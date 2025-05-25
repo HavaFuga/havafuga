@@ -33,16 +33,8 @@
 ---
 
 ### 🧃 Projects
-- 🚀 [AI Selfie App](http://web0.fhnw.ch/ht/informatik/ip5/24hs/24hs_iit41/) – currently in public beta
-- 🌐 [havafuga.com](http://havafuga.com) – my animated personal portfolio in Framer
-
----
-
-### 🍓 Let's Connect & Vibe
-<p align="center">
-  <img src="https://i.pinimg.com/originals/23/51/bc/2351bc65b2b5d75cef146b7edddf805b.gif" width="300" />
-</p>
-
+- 🚀 [AI Selfie App](http://web0.fhnw.ch/ht/informatik/ip5/24hs/24hs_iit41/) – currently in bet
+  
 ---
 
 ### 📈 GitHub Stats
